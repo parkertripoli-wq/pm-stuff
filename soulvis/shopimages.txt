@@ -1,1 +1,1 @@
-["https://penguinmod.com/navicon.png","https://penguinmod.com/navicon.png"]
+https://penguinmod.com/navicon.png
